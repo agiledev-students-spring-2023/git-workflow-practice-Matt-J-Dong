@@ -1,2 +1,2 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Link to article](https://www.nytimes.com/2023/01/31/technology/tesla-autopilot-investigation.html)
